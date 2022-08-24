@@ -27,5 +27,11 @@
 Metric: Negative Root Mean Squared Error (NRMSE)<br/>
 • Multiple Linear Regression: -27.523<br/>
 • Lasso Regression: -27.993<br/>
-• **Random Forest: -17.637**<br/>
+• **Random Forest: -17.754**<br/>
 _**Note: Evaluation scores are obtained using cross validation.**_
+
+## Deployment
+Used python framework **Streamlit** for deployment and deployed the model on heroku<br/>
+
+**https://salary-prediction-by-streamlit.herokuapp.com/**
+
