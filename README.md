@@ -33,5 +33,5 @@ _**Note: Evaluation scores are obtained using cross validation.**_
 ## Deployment
 Used python framework **Streamlit** for deployment and deployed the model on heroku<br/>
 
-**https://salary-prediction-by-streamlit.herokuapp.com/**
+https://salary-prediction-by-streamlit.herokuapp.com/
 
